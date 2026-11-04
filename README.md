@@ -261,7 +261,7 @@ git commit -m "Initial commit: FeedbackHub MERN Stack Student Feedback System"
 git branch -M main
 
 # 2. Add your GitHub repository as remote origin (replace with your copied URL)
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+git remote add origin https://github.com/sravanidhanumuri11-dot/StduentFeedbackManagementSystem-Mern.git
 
 # 3. Push to GitHub
 git push -u origin main
@@ -287,3 +287,4 @@ git push
 
 ## 📄 License
 This project is open-source and licensed under the [ISC License](LICENSE).
+
