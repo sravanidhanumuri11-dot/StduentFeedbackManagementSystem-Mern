@@ -1,0 +1,14 @@
+{
+  "name": "feedbackhub-mern-project",
+  "version": "1.0.0",
+  "description": "Student Feedback & Course Evaluation System (MERN Stack: React, Node, Express, MongoDB)",
+  "scripts": {
+    "start": "./run.sh start",
+    "stop": "./run.sh stop",
+    "restart": "./run.sh restart",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": ["mern", "student-feedback", "react", "nodejs", "express", "mongodb", "mongoose"],
+  "author": "Dattathreya Chari",
+  "license": "ISC"
+}
